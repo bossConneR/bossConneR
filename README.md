@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there, I'm ConneR, nice to meet you :D 👋
 
+I am an Automation Engineer student from Putian, China.
+
+![cleardusk's github stats](https://github-readme-stats.vercel.app/api?username=bossConneR&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
+- 🔭 I’m currently working on generating adversarial patch. 
 <!--
-**bossConneR/bossConneR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
