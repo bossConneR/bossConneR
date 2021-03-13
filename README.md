@@ -1,6 +1,6 @@
 ### Hi there, I'm ConneR, nice to meet you :D 👋
 
-I am an Automation Engineer student from Changsha, China.
+I am an Automation Engineering student from Changsha, China.
 
 ![cleardusk's github stats](https://github-readme-stats.vercel.app/api?username=bossConneR&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
